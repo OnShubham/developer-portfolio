@@ -13,7 +13,7 @@ export const experiences = [
     duration: "(Apr-23 - Sep-24)"
   },
   {
-    id: 3,
+    id: 2,
     title: "FullStack Developer",
     company: "Upwork (freelance)",
     duration: "(Jan 2023 - Present)"
