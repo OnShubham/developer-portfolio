@@ -3,14 +3,14 @@ export const experiences = [
     id: 1,
     title: 'Full-Stack Developer',
     company: "InsightBridge - AlphaLegal.Ai",
-    duration: "(Apr-24 - Present)"
+    duration: "(Oct-24 - Present)"
     
   },
   {
     id: 1,
     title: 'FullStack Developer intern',
     company: "Scraft Studio Pvt. Ltd.",
-    duration: "(Oct-23 - Mar-24)"
+    duration: "(Apr-23 - Sep-24)"
   },
   // {
   //   id: 2,
