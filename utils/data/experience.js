@@ -7,17 +7,17 @@ export const experiences = [
     
   },
   {
-    id: 1,
+    id: 2,
     title: 'FullStack Developer intern',
     company: "Scraft Studio Pvt. Ltd.",
     duration: "(Apr-23 - Sep-24)"
   },
-  // {
-  //   id: 2,
-  //   title: "FullStack Developer",
-  //   company: "Fiverr (freelance)",
-  //   duration: "(Jun 2021 - Jan 2022)"
-  // },
+  {
+    id: 3,
+    title: "FullStack Developer",
+    company: "Upwork (freelance)",
+    duration: "(Jan 2023 - Present)"
+  },
   // {
   //   id: 3,
   //   title: "Self Employed",
