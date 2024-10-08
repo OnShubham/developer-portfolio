@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'Full-Stack Developer',
     company: "InsightBridge - AlphaLegal.Ai",
-    duration: "(Oct-24 - Present)"
+    duration: "(Oct-23 - Present)"
     
   },
   {
