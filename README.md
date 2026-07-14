@@ -1,142 +1,64 @@
-# Developer Portfolio
+# Shubham Kharche
 
-### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
+Software Engineer | Backend Engineer (Generative AI) | Python Developer
 
----
+Pune, Maharashtra, India  •  shubhamkharche30@gmail.com  •  +91 7350944278
 
-# Demo :movie_camera:
+## About
 
-![](./public/image/screen.png)
+Backend Engineer with 2+ years of experience building scalable Python applications, FastAPI/Django services, and Generative AI systems. I specialize in RAG pipelines, LLM-powered products, agentic workflows, and backend architectures for real-world automation and AI products.
 
-## View live preview [here](https://abusaid.netlify.app/).
+## Experience
 
----
+### InsightBridge Pvt Ltd
+Senior Backend Engineer (Apr 2024 – Apr 2026)
 
-## Table of Contents :scroll:
+- Built a RAG-based agentic chatbot, improving retrieval accuracy by 40% and reducing query latency by 30%.
+- Developed and deployed 10+ FastAPI microservices supporting 200+ concurrent users with asynchronous processing.
+- Automated data extraction from 200+ e-commerce websites with Selenium and BeautifulSoup, reducing manual effort by 70%.
+- Built AI-powered pricing dashboards with trend analysis and recommendations, improving pricing insights by 25%.
+- Implemented JWT-based authentication and RBAC to secure backend services.
 
-- [Sections](#sections-bookmark)
-- [Demo](#demo-movie_camera)
-- [Installation](#installation-arrow_down)
-- [Getting Started](#getting-started-dart)
-- [Usage](#usage-joystick)
-- [Packages Used](#packages-used-package)
+## Featured Projects
 
----
+### AI-Powered Education Platform
+- Built a full-stack AI learning platform with Virtual Tutor, Career Advisor, Study Planner, and Quiz Generation modules.
+- Used LLMs to power personalized tutoring, career recommendations, and contextual learning assistance.
+- Developed dynamic quiz generation and evaluation workflows to improve student engagement.
+- Tech: Python, FastAPI, LLM, LangChain, LangGraph, Docker
 
-# Sections :bookmark:
+### Dishoom – E-commerce Price Comparison Platform
+- Built a marketplace price comparison platform that aggregates product information from multiple online sources.
+- Implemented cross-platform price comparison features and centralized data storage for standardized analysis.
+- Tech: Python, Django, Selenium, BeautifulSoup, MongoDB, Docker
 
-- HERO SECTION
-- ABOUT ME
-- EXPERIENCE
-- SKILLS
-- PROJECTS
-- EDUCATION
-- BLOG
-- CONTACTS
+## Skills
 
----
+### Languages
+Python, JavaScript, SQL
 
-# Installation :arrow_down:
+### Backend & Frameworks
+FastAPI, Django, Node.js, REST APIs, Pydantic
 
-### You will need to download Git and Node to run this project
+### Databases
+MongoDB, PostgreSQL, MySQL, Redis
 
-- [Git](https://git-scm.com/downloads)
-- [Node](https://nodejs.org/en/download/)
+### Generative AI
+LLM, RAG Pipelines, LangChain, AI Agents, ChromaDB, OpenAI API, Ollama, Prompt Engineering, Semantic Search, Embeddings
 
-#### Make sure you have the latest version of both Git and Node on your computer.
+### DevOps & Tools
+Docker, GCP, Git, GitHub, CI/CD, Postman, Jira, Swagger, Linux
 
-```
-node --version
-git --version
-```
+## Education
 
-## <br />
+- Savitribai Phule Pune University — MCA (2021–2023), CGPA: 8.5/10
+- Kavayitri Bahinabai Chaudhari North Maharashtra University — BCA (2018–2021), Percentage: 82.40%
 
-# Getting Started :dart:
-
-### Fork and Clone the repo
-
-To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
-
-```
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
-
-cd developer-portfolio
-```
-
-### Install packages from the root directory
+## Running This Portfolio Locally
 
 ```bash
 npm install
-# or
-yarn install
-```
-
-Then, run the development server:
-
-```bash
 npm run dev
-# or
-yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
----
-
-# Usage :joystick:
-
-Goto [emailjs.com](https://www.emailjs.com/) and create a new account for the mail sending. In free trial you will get 200 mail per month. After setup `emailjs` account, Please create a new `.env` file from `.env.example` file.
-
-Eg:
-
-```env
-NEXT_PUBLIC_EMAILJS_SERVICE_ID =
-NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
-NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
-```
-
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
-
-Eg:
-
-```javascript
-export const personalData = {
-  name: "Shubham Kharche",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is Shubham Kharche....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
-};
-```
-
-`devUsername` Used for fetching blog from `dev.to`.
-
----
-
----
-
-# Packages Used :package:
-
-| Used Package List  |
-| :----------------: |
-|        next        |
-|  @emailjs/browser  |
-|    lottie-react    |
-| react-fast-marquee |
-|    react-icons     |
-|   react-toastify   |
-|        sass        |
-|    tailwindcss     |
-
----
+Then open http://localhost:3000 to view the portfolio.
