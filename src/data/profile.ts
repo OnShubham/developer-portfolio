@@ -83,8 +83,8 @@ export const profile: Profile = {
   summary:
     "Backend Engineer with 2+ years of experience in Python, FastAPI, Django, Generative AI, RAG systems, LLM applications, and scalable microservices development, with proven expertise in building AI-powered products and automation solutions.",
   links: {
-    github: "",
-    linkedin: "",
+    github: "https://github.com/OnShubham",
+    linkedin: "https://www.linkedin.com/in/shubhamkharche",
   },
   experience: [
     {
