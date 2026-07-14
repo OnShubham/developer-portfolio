@@ -3,7 +3,7 @@ export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
 export default async function OpengraphImage() {
-  const name = process.env.NEXT_PUBLIC_NAME || "Somesh Fengade";
+  const name = process.env.NEXT_PUBLIC_NAME || "Shubham Kharche";
   const subtitle =
     process.env.NEXT_PUBLIC_SUMMARY ||
     "AI / ML Engineer — Generative AI & RAG Systems";

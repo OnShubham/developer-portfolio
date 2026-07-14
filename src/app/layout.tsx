@@ -19,7 +19,7 @@ const siteUrl =
   (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : "http://localhost:3000");
 
 export async function generateMetadata(): Promise<Metadata> {
-  const profileName = process.env.NEXT_PUBLIC_NAME ?? "Somesh Fengade";
+  const profileName = process.env.NEXT_PUBLIC_NAME ?? "Shubham Kharche";
   const profileSummary =
     process.env.NEXT_PUBLIC_SUMMARY ??
     "AI / ML Engineer — Generative AI & RAG Systems. Building production-grade AI with Pinecone, OpenAI models, and GCP Cloud Run infrastructure.";
